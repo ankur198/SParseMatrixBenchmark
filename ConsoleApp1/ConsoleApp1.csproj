@@ -48,5 +48,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SParseMatrix\SParseMatrix.csproj">
+      <Project>{c856c57c-dfdc-4dc6-a42e-7b8a222f5909}</Project>
+      <Name>SParseMatrix</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
