@@ -13,7 +13,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             s = new StopWatch();
-            int numOfTimes = 1000;
+            int numOfTimes = 10000;
             SParse parse = new SParse();
             parse.CreateTraditionalMatrix();
 

@@ -32,9 +32,14 @@ namespace SParseMatrix
             s.Stop();
         }
 
+        public void Reset()
+        {
+            s.Reset();
+        }
+
         public long Elasped()
         {
-            return s.ElapsedMilliseconds;
+            return s.ElapsedTicks;
         }
 
         public bool isRunning()
