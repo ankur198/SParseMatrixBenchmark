@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SParseMatrix", "SParseMatrix\SParseMatrix.csproj", "{C856C57C-DFDC-4DC6-A42E-7B8A222F5909}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{2439AC88-0173-46B4-91E7-8784FEAE4145}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C856C57C-DFDC-4DC6-A42E-7B8A222F5909}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C856C57C-DFDC-4DC6-A42E-7B8A222F5909}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C856C57C-DFDC-4DC6-A42E-7B8A222F5909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2439AC88-0173-46B4-91E7-8784FEAE4145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2439AC88-0173-46B4-91E7-8784FEAE4145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2439AC88-0173-46B4-91E7-8784FEAE4145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2439AC88-0173-46B4-91E7-8784FEAE4145}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
